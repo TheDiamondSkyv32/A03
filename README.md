@@ -2,12 +2,27 @@
 
 
 # Git Tutorial
-
+* Google Git and navigate to the website and download Git for your appropriate website at https://git-scm.com/downloads
+* Install it in a directory you know.
+* Configure the Git Bash settings and add your username / email combo.
+* Setup a test repository on Github, clone it to your local machine.
+* Create a new file on your local machine, git add it, commit, and push it to Github to verify that it is working.
 
 # Github Tutorial
+* Create an account on Github.
+* Link your account to your machine (whether that be by a SSH key).
+* Create a new repository (A03) and clone it into your machine.
+* Follow the instructions for what to do with A03.
 
 
 # Webstorm Tutorial
+* Open the WebStorm application.
+* Create a New Project OR Open a pre-existing file if you have it OR get it from a VCS system such as Github if needed.
+* Use the WebStorm terminal to navigate to the appropriate directories and setup your project (Version Control or Not).
+* Customize your installation and install QoL plugins if necessary.
+* Use the WebStorm tutorial (much like PyCharm) if needed.
+* Code your heart away and suffer (for legal reasons that is a joke).
+
 
 # Terms associated With Git / Github Vocabulary 
 
