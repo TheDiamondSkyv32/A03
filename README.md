@@ -10,18 +10,28 @@
 # Webstorm Tutorial
 
 # Terms associated With Git / Github Vocabulary 
-** Branch **
+**Branch**
 
-** Clone **
-** Commit ** 
-** Fetch ** 
-** GIT ** 
-** Github ** 
-** Merge **
-** Merge Conflict ** 
-** Push ** 
-** Pull **
-** Remote **
+**Clone**
+
+**Commit**
+ 
+**Fetch** 
+
+**GIT** 
+
+**Github** 
+
+**Merge**
+
+**Merge Conflict** 
+
+**Push** 
+
+**Pull**
+
+**Remote**
+
 **Repository**
 
 
